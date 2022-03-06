@@ -1,6 +1,6 @@
 body{
 	background-color: #000000;
-	color: red;
+	color: white;
 	font-family: sans-serif;
 }
 
@@ -16,7 +16,7 @@ p{
 .header{
 	text-align: center;
 	width: 100%;
-	height: 150px;     
+	height: 200px;     
     background: #B22AFF;
     color: #fff;
 }
