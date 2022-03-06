@@ -1,0 +1,23 @@
+body{
+	background-color: #FF5151;
+
+	font-family: sans-serif;
+}
+
+p{
+	font-family: 'Fredoka', sans-serif;
+}
+
+.enline{
+	padding-right: 80px;
+	padding-left: 80px;
+}
+
+.header{
+	text-align: center;
+	width: 100%;
+	height: 30px;     
+    background: #333;
+    color: #fff;
+    top: 0;
+}
